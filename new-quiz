@@ -1,0 +1,98 @@
+{
+  "Basics 1": [
+    {"id":2341001,"prompt":"Which of these is a fruit?","options":[{"id":23410011,"text":"Potato"},{"id":23410012,"text":"Apple"},{"id":23410013,"text":"Onion"}],"correctAnswerId":23410012},
+    {"id":2341002,"prompt":"What comes after the number 2?","options":[{"id":23410021,"text":"1"},{"id":23410022,"text":"3"},{"id":23410023,"text":"4"}],"correctAnswerId":23410022},
+    {"id":2341003,"prompt":"Which is bigger: 10 or 5?","options":[{"id":23410031,"text":"10"},{"id":23410032,"text":"5"},{"id":23410033,"text":"They’re equal"}],"correctAnswerId":23410031},
+    {"id":2341004,"prompt":"Which of these is a shape with three sides?","options":[{"id":23410041,"text":"Square"},{"id":23410042,"text":"Triangle"},{"id":23410043,"text":"Circle"}],"correctAnswerId":23410042},
+    {"id":2341005,"prompt":"What colour do you get when you mix red and white?","options":[{"id":23410051,"text":"Pink"},{"id":23410052,"text":"Purple"},{"id":23410053,"text":"Brown"}],"correctAnswerId":23410051},
+    {"id":2341006,"prompt":"Which number is even?","options":[{"id":23410061,"text":"7"},{"id":23410062,"text":"4"},{"id":23410063,"text":"9"}],"correctAnswerId":23410062},
+    {"id":2341007,"prompt":"Which of these is a color?","options":[{"id":23410071,"text":"Blue"},{"id":23410072,"text":"Chair"},{"id":23410073,"text":"Cloud"}],"correctAnswerId":23410071},
+    {"id":2341008,"prompt":"What shape has four equal sides?","options":[{"id":23410081,"text":"Rectangle"},{"id":23410082,"text":"Square"},{"id":23410083,"text":"Oval"}],"correctAnswerId":23410082},
+    {"id":2341009,"prompt":"Which of these is hot?","options":[{"id":23410091,"text":"Ice"},{"id":23410092,"text":"Fire"},{"id":23410093,"text":"Snow"}],"correctAnswerId":23410092},
+    {"id":2341010,"prompt":"Which is used for writing?","options":[{"id":23410101,"text":"Pencil"},{"id":23410102,"text":"Plate"},{"id":23410103,"text":"Orange"}],"correctAnswerId":23410101}
+  ],
+  "Greetings": [
+    {"id":2342001,"prompt":"Which of these means the same as \"Good night\"?","options":[{"id":23420011,"text":"See you in the morning"},{"id":23420012,"text":"Sleep well"},{"id":23420013,"text":"What's up?"}],"correctAnswerId":23420012},
+    {"id":2342002,"prompt":"What do you say when you meet someone for the first time?","options":[{"id":23420021,"text":"Nice to meet you"},{"id":23420022,"text":"Long time no see"},{"id":23420023,"text":"Goodbye"}],"correctAnswerId":23420021},
+    {"id":2342003,"prompt":"If someone says \"How are you?\", you can reply…","options":[{"id":23420031,"text":"I'm fine, thanks"},{"id":23420032,"text":"See you later"},{"id":23420033,"text":"What’s your name?"}],"correctAnswerId":23420031},
+    {"id":2342004,"prompt":"What is a polite way to interrupt a conversation?","options":[{"id":23420041,"text":"Sorry to bother you"},{"id":23420042,"text":"What are you doing?"},{"id":23420043,"text":"Go away"}],"correctAnswerId":23420041},
+    {"id":2342005,"prompt":"What do you say when someone sneezes?","options":[{"id":23420051,"text":"Bless you"},{"id":23420052,"text":"Good bye"},{"id":23420053,"text":"How are you?"}],"correctAnswerId":23420051},
+    {"id":2342006,"prompt":"What do you say when someone thanks you?","options":[{"id":23420061,"text":"You're welcome"},{"id":23420062,"text":"Who are you?"},{"id":23420063,"text":"Silence"}],"correctAnswerId":23420061},
+    {"id":2342007,"prompt":"A friendly way to say hello is:","options":[{"id":23420071,"text":"Hey!"},{"id":23420072,"text":"Leave me alone"},{"id":23420073,"text":"Stop talking"}],"correctAnswerId":23420071},
+    {"id":2342008,"prompt":"If someone says 'See you soon', they mean:","options":[{"id":23420081,"text":"We won’t meet again"},{"id":23420082,"text":"We’ll meet again shortly"},{"id":23420083,"text":"Good night"}],"correctAnswerId":23420082},
+    {"id":2342009,"prompt":"What do you say before eating with others?","options":[{"id":23420091,"text":"Bon appétit"},{"id":23420092,"text":"Go home"},{"id":23420093,"text":"Bye"}],"correctAnswerId":23420091},
+    {"id":2342010,"prompt":"Which phrase is a farewell?","options":[{"id":23420101,"text":"Take care"},{"id":23420102,"text":"What’s up?"},{"id":23420103,"text":"Nice job"}],"correctAnswerId":23420101}
+  ],
+  "Travel": [
+    {"id":2343001,"prompt":"Which of these is a land mode of mass transport?","options":[{"id":23430011,"text":"Submarine"},{"id":23430012,"text":"Train"},{"id":23430013,"text":"Hot-air balloon"}],"correctAnswerId":23430012},
+    {"id":2343002,"prompt":"What document is usually required to travel abroad?","options":[{"id":23430021,"text":"Library card"},{"id":23430022,"text":"Passport"},{"id":23430023,"text":"Student ID"}],"correctAnswerId":23430022},
+    {"id":2343003,"prompt":"What is the place called where you wait for a flight?","options":[{"id":23430031,"text":"Bus stop"},{"id":23430032,"text":"Airport terminal"},{"id":23430033,"text":"Train station"}],"correctAnswerId":23430032},
+    {"id":2343004,"prompt":"If you go on vacation, you might book a…","options":[{"id":23430041,"text":"Hotel room"},{"id":23430042,"text":"Gym membership"},{"id":23430043,"text":"Work contract"}],"correctAnswerId":23430041},
+    {"id":2343005,"prompt":"Which device do you need for access to your ride-on in many airports?","options":[{"id":23430051,"text":"Helmet"},{"id":23430052,"text":"Boarding pass"},{"id":23430053,"text":"Library book"}],"correctAnswerId":23430052},
+    {"id":2343006,"prompt":"Which place has train arrivals and departures?","options":[{"id":23430061,"text":"Airport gate"},{"id":23430062,"text":"Train station"},{"id":23430063,"text":"Mall"}],"correctAnswerId":23430062},
+    {"id":2343007,"prompt":"Which of these is a travel bag?","options":[{"id":23430071,"text":"Suitcase"},{"id":23430072,"text":"Backyard"},{"id":23430073,"text":"Notebook"}],"correctAnswerId":23430071},
+    {"id":2343008,"prompt":"Which vehicle travels on water?","options":[{"id":23430081,"text":"Boat"},{"id":23430082,"text":"Car"},{"id":23430083,"text":"Bicycle"}],"correctAnswerId":23430081},
+    {"id":2343009,"prompt":"Tourists often take photos with a:","options":[{"id":23430091,"text":"Camera"},{"id":23430092,"text":"Microwave"},{"id":23430093,"text":"Umbrella"}],"correctAnswerId":23430091},
+    {"id":2343010,"prompt":"Where do you stay overnight when traveling?","options":[{"id":23430101,"text":"Hotel"},{"id":23430102,"text":"Parking lot"},{"id":23430103,"text":"Office"}],"correctAnswerId":23430101}
+  ],
+  "Family": [
+    {"id":2344001,"prompt":"Who is your father’s sister?","options":[{"id":23440011,"text":"Niece"},{"id":23440012,"text":"Aunt"},{"id":23440013,"text":"Cousin"}],"correctAnswerId":23440012},
+    {"id":2344002,"prompt":"Your mother’s mother is your…","options":[{"id":23440021,"text":"Granddaughter"},{"id":23440022,"text":"Grandmother"},{"id":23440023,"text":"Sister"}],"correctAnswerId":23440022},
+    {"id":2344003,"prompt":"Your brother’s child is your…","options":[{"id":23440031,"text":"Nephew or niece"},{"id":23440032,"text":"Uncle"},{"id":23440033,"text":"Cousin"}],"correctAnswerId":23440031},
+    {"id":2344004,"prompt":"Your father’s son (who is not you) is your…","options":[{"id":23440041,"text":"Brother"},{"id":23440042,"text":"Cousin"},{"id":23440043,"text":"Nephew"}],"correctAnswerId":23440041},
+    {"id":2344005,"prompt":"Your mother’s daughter (who is not you) is your…","options":[{"id":23440051,"text":"Sister"},{"id":23440052,"text":"Aunt"},{"id":23440053,"text":"Daughter"}],"correctAnswerId":23440051},
+    {"id":2344006,"prompt":"Your sister’s child is your:","options":[{"id":23440061,"text":"Niece or nephew"},{"id":23440062,"text":"Uncle"},{"id":23440063,"text":"Parent"}],"correctAnswerId":23440061},
+    {"id":2344007,"prompt":"Your mom’s brother is your:","options":[{"id":23440071,"text":"Uncle"},{"id":23440072,"text":"Cousin"},{"id":23440073,"text":"Nephew"}],"correctAnswerId":23440071},
+    {"id":2344008,"prompt":"Your father's parents are your:","options":[{"id":23440081,"text":"Grandparents"},{"id":23440082,"text":"Children"},{"id":23440083,"text":"Siblings"}],"correctAnswerId":23440081},
+    {"id":2344009,"prompt":"Your cousin’s parent is your:","options":[{"id":23440091,"text":"Aunt or uncle"},{"id":23440092,"text":"Sibling"},{"id":23440093,"text":"Grandchild"}],"correctAnswerId":23440091},
+    {"id":2344010,"prompt":"Your brother’s wife is your:","options":[{"id":23440101,"text":"Sister-in-law"},{"id":23440102,"text":"Niece"},{"id":23440103,"text":"Mother-in-law"}],"correctAnswerId":23440101}
+  ],
+  "Food": [
+    {"id":2345001,"prompt":"Which of these is a vegetable?","options":[{"id":23450011,"text":"Apple"},{"id":23450012,"text":"Broccoli"},{"id":23450013,"text":"Ice-cream"}],"correctAnswerId":23450012},
+    {"id":2345002,"prompt":"What is the main solid in milk that forms cheese?","options":[{"id":23450021,"text":"Flour"},{"id":23450022,"text":"Milk protein (casein)"},{"id":23450023,"text":"Water"}],"correctAnswerId":23450022},
+    {"id":2345003,"prompt":"Which meal is typically eaten in the morning?","options":[{"id":23450031,"text":"Breakfast"},{"id":23450032,"text":"Lunch"},{"id":23450033,"text":"Dinner"}],"correctAnswerId":23450031},
+    {"id":2345004,"prompt":"Which of these is a beverage?","options":[{"id":23450041,"text":"Bread"},{"id":23450042,"text":"Water"},{"id":23450043,"text":"Salad"}],"correctAnswerId":23450042},
+    {"id":2345005,"prompt":"Which of these is a grain food?","options":[{"id":23450051,"text":"Rice"},{"id":23450052,"text":"Tomato"},{"id":23450053,"text":"Carrot"}],"correctAnswerId":23450051},
+    {"id":2345006,"prompt":"Which food is sweet?","options":[{"id":23450061,"text":"Candy"},{"id":23450062,"text":"Broccoli"},{"id":23450063,"text":"Rice"}],"correctAnswerId":23450061},
+    {"id":2345007,"prompt":"Which of these is a fruit?","options":[{"id":23450071,"text":"Banana"},{"id":23450072,"text":"Bread"},{"id":23450073,"text":"Soup"}],"correctAnswerId":23450071},
+    {"id":2345008,"prompt":"Which food is typically eaten cold?","options":[{"id":23450081,"text":"Ice cream"},{"id":23450082,"text":"Pasta"},{"id":23450083,"text":"Soup"}],"correctAnswerId":23450081},
+    {"id":2345009,"prompt":"Which of these is a protein food?","options":[{"id":23450091,"text":"Chicken"},{"id":23450092,"text":"Lettuce"},{"id":23450093,"text":"Apple"}],"correctAnswerId":23450091},
+    {"id":2345010,"prompt":"What do you drink to stay hydrated?","options":[{"id":23450101,"text":"Water"},{"id":23450102,"text":"Salt"},{"id":23450103,"text":"Pepper"}],"correctAnswerId":23450101}
+  ],
+  "Animals": [
+    {"id":2346001,"prompt":"Which animal can fly?","options":[{"id":23460011,"text":"Dog"},{"id":23460012,"text":"Bird"},{"id":23460013,"text":"Horse"}],"correctAnswerId":23460012},
+    {"id":2346002,"prompt":"Which of these is a reptile?","options":[{"id":23460021,"text":"Cat"},{"id":23460022,"text":"Crocodile"},{"id":23460023,"text":"Rabbit"}],"correctAnswerId":23460022},
+    {"id":2346003,"prompt":"Which animal is known for its long neck?","options":[{"id":23460031,"text":"Elephant"},{"id":23460032,"text":"Giraffe"},{"id":23460033,"text":"Pig"}],"correctAnswerId":23460032},
+    {"id":2346004,"prompt":"Which animal gives us milk?","options":[{"id":23460041,"text":"Cow"},{"id":23460042,"text":"Sheep"},{"id":23460043,"text":"Chicken"}],"correctAnswerId":23460041},
+    {"id":2346005,"prompt":"Which animal is a common household pet?","options":[{"id":23460051,"text":"Parrot"},{"id":23460052,"text":"Lion"},{"id":23460053,"text":"Whale"}],"correctAnswerId":23460051},
+    {"id":2346006,"prompt":"Which animal lives in the ocean?","options":[{"id":23460061,"text":"Shark"},{"id":23460062,"text":"Eagle"},{"id":23460063,"text":"Lion"}],"correctAnswerId":23460061},
+    {"id":2346007,"prompt":"Which of these pets can purr?","options":[{"id":23460071,"text":"Cat"},{"id":23460072,"text":"Frog"},{"id":23460073,"text":"Snake"}],"correctAnswerId":23460071},
+    {"id":2346008,"prompt":"Which animal hops?","options":[{"id":23460081,"text":"Rabbit"},{"id":23460082,"text":"Cow"},{"id":23460083,"text":"Fish"}],"correctAnswerId":23460081},
+    {"id":2346009,"prompt":"Which animal is known as the king of the jungle?","options":[{"id":23460091,"text":"Lion"},{"id":23460092,"text":"Goat"},{"id":23460093,"text":"Duck"}],"correctAnswerId":23460091},
+    {"id":2346010,"prompt":"Which animal lays eggs?","options":[{"id":23460101,"text":"Chicken"},{"id":23460102,"text":"Dog"},{"id":23460103,"text":"Horse"}],"correctAnswerId":23460101}
+  ],
+  "Plurals": [
+    {"id":2347001,"prompt":"What is the plural of 'lady'?","options":[{"id":23470011,"text":"Ladys"},{"id":23470012,"text":"Ladies"},{"id":23470013,"text":"Ladiese"}],"correctAnswerId":23470012},
+    {"id":2347002,"prompt":"What is the plural of 'foot'?","options":[{"id":23470021,"text":"Feets"},{"id":23470022,"text":"Feet"},{"id":23470023,"text":"Foots"}],"correctAnswerId":23470022},
+    {"id":2347003,"prompt":"What is the plural of 'sheep'?","options":[{"id":23470031,"text":"Sheeps"},{"id":23470032,"text":"Sheep"},{"id":23470033,"text":"Sheepes"}],"correctAnswerId":23470032},
+    {"id":2347004,"prompt":"What is the plural of 'flower'?","options":[{"id":23470041,"text":"Flowers"},{"id":23470042,"text":"Floweres"},{"id":23470043,"text":"Flowrs"}],"correctAnswerId":23470041},
+    {"id":2347005,"prompt":"What is the plural of 'box'?","options":[{"id":23470051,"text":"Boxs"},{"id":23470052,"text":"Boxes"},{"id":23470053,"text":"Boxen"}],"correctAnswerId":23470052},
+    {"id":2347006,"prompt":"What is the plural of 'child'?","options":[{"id":23470061,"text":"Childs"},{"id":23470062,"text":"Children"},{"id":23470063,"text":"Childes"}],"correctAnswerId":23470062},
+    {"id":2347007,"prompt":"What is the plural of 'mouse'?","options":[{"id":23470071,"text":"Mouses"},{"id":23470072,"text":"Mice"},{"id":23470073,"text":"Mouse"}],"correctAnswerId":23470072},
+    {"id":2347008,"prompt":"What is the plural of 'leaf'?","options":[{"id":23470081,"text":"Leafs"},{"id":23470082,"text":"Leaves"},{"id":23470083,"text":"Leavies"}],"correctAnswerId":23470082},
+    {"id":2347009,"prompt":"What is the plural of 'man'?","options":[{"id":23470091,"text":"Men"},{"id":23470092,"text":"Mans"},{"id":23470093,"text":"Mensen"}],"correctAnswerId":23470091},
+    {"id":2347010,"prompt":"What is the plural of 'tomato'?","options":[{"id":23470101,"text":"Tomatos"},{"id":23470102,"text":"Tomatoes"},{"id":23470103,"text":"Tomatees"}],"correctAnswerId":23470102}
+  ],
+  "Possessives": [
+    {"id":2348001,"prompt":"The car belongs to John. Which is correct?","options":[{"id":23480011,"text":"Johns car"},{"id":23480012,"text":"John’s car"},{"id":23480013,"text":"John car’s"}],"correctAnswerId":23480012},
+    {"id":2348002,"prompt":"Which shows something belonging to the students?","options":[{"id":23480021,"text":"The student’s books"},{"id":23480022,"text":"The students books"},{"id":23480023,"text":"The students’ books"}],"correctAnswerId":23480023},
+    {"id":2348003,"prompt":"Which is correct for one dog’s tail?","options":[{"id":23480031,"text":"The dogs’ tail"},{"id":23480032,"text":"The dog’s tail"},{"id":23480033,"text":"The dogs tail"}],"correctAnswerId":23480032},
+    {"id":2348004,"prompt":"Which is correct for tails of many cats?","options":[{"id":23480041,"text":"The cats’ tails"},{"id":23480042,"text":"The cat’s tails"},{"id":23480043,"text":"The cats tails"}],"correctAnswerId":23480041},
+    {"id":2348005,"prompt":"The house of Mary and Peter is ___ house.","options":[{"id":23480051,"text":"Mary and Peters’"},{"id":23480052,"text":"Mary and Peter’s"},{"id":23480053,"text":"Mary’s and Peter’s"}],"correctAnswerId":23480052},
+    {"id":2348006,"prompt":"The bike of the boy is the ___ bike.","options":[{"id":23480061,"text":"boys"},{"id":23480062,"text":"boy’s"},{"id":23480063,"text":"boys’"}],"correctAnswerId":23480062},
+    {"id":2348007,"prompt":"The toys of the children are the ___ toys.","options":[{"id":23480071,"text":"children’s"},{"id":23480072,"text":"childrens"},{"id":23480073,"text":"childrens’"}],"correctAnswerId":23480071},
+    {"id":2348008,"prompt":"The house of the family is the ___ house.","options":[{"id":23480081,"text":"family’s"},{"id":23480082,"text":"familys"},{"id":23480083,"text":"families’"}],"correctAnswerId":23480081},
+    {"id":2348009,"prompt":"The songs of the singers are the ___ songs.","options":[{"id":23480091,"text":"singers’"},{"id":23480092,"text":"singer’s"},{"id":23480093,"text":"singers"}],"correctAnswerId":23480091},
+    {"id":2348010,"prompt":"The laptop belonging to Emma is ___ laptop.","options":[{"id":23480101,"text":"Emmas"},{"id":23480102,"text":"Emma’s"},{"id":23480103,"text":"Emmas’"}],"correctAnswerId":23480102}
+  ]
+}
